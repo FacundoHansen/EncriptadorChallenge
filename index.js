@@ -42,3 +42,4 @@ function copiar() {
         document.getElementById("texto-encriptado").value
 )};
 document.querySelector("#copiar-texto").addEventListener("click", copiar);
+alert ("Texto copiado con exito !")
